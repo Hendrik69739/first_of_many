@@ -1,0 +1,26 @@
+form {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    background-color: rgb(4, 124, 137);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-image: url('get-ios-14-2-wallpapers-14.jpg');
+}
+button {
+    background: linear-gradient(to right, blue 50%, purple 100%);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
